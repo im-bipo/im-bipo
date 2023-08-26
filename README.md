@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bipin Khatri</h1>
 
-- 👨‍💻 All of my projects are available at [bipinkhatri.com.np](bipinkhatri.com.np)
+- 👨‍💻 All of my projects are available at [bipinkhatri.com.np](https://bipinkhatri.com.np)
 
 - 📫 How to reach me **bipinkhatri.ram@gmail.com**
 
