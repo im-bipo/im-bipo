@@ -17,6 +17,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-bipo&show_icons=true&locale=en&layout=compact" alt="im-bipo" /></p>
 
-[![An image of @imbipo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imbipo)](https://holopin.io/@imbipo)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-bipo&" alt="im-bipo" /></p>
+
+[![An image of @imbipo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/imbipo)](https://holopin.io/@imbipo)
