@@ -5,7 +5,7 @@
 ## Hey, I'm Bipin 👋
 #### Full Stack Software Developer &nbsp;·&nbsp; js.env
 
-Full Stack Developer with over 3 years of hands-on experience building scalable web applications and AI-integrated systems. Proficient in React, Next.js, Node.js, and cloud services (Lambda, Lightsail, SES, API Gateway, IAM, CloudWatch, S3, CF Workers, Pages, R2, DNS). Experienced with RAG architecture, vector embeddings, and Gen AI APIs. Active contributor to open-source and the local tech community in Nepal.
+Full Stack Developer (frontend focused) with over 3 years of hands-on experience building scalable web applications and AI-integrated systems. Proficient in React, Next.js, Motion(framer-motion), Node.js, and cloud services (Lambda, Lightsail, SES, API Gateway, IAM, CloudWatch, S3, CF Workers, Pages, R2, DNS). Experienced with RAG architecture, vector embeddings, and Gen AI APIs. Active contributor to open-source and the local tech community in Nepal.
 
 <br/>
 
